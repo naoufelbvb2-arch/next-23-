@@ -1,0 +1,55 @@
+{
+  "project": "Next 23",
+  "freeze_id": "NEXT23-FCR-001",
+  "version": "v0.1.1",
+  "freeze_date": "2026-11-03",
+  "freeze_semantics": "documentation/design baseline only; unimplemented and experimentally unverified",
+  "documentary_QA": {
+    "passed": 41,
+    "total": 41,
+    "kind": "static structural checks"
+  },
+  "experiment_T3A_status": "NOT_RUN",
+  "github_pushed": false,
+  "files": [
+    {
+      "id": "LLA-001",
+      "path": "docs/learning/LLA-001-v0.1.1-FROZEN.md",
+      "sha256": "8910c46307762ac87134975e6d6806625dfadbeef9818342adea746743d7ccf5",
+      "bytes": 69691
+    },
+    {
+      "id": "CORE-001",
+      "path": "docs/core/CORE-001-v0.1.1-FROZEN.md",
+      "sha256": "4035609e7875a29440971a178c97c437b46ede06a3ff17e2b657febcc9189122",
+      "bytes": 87503
+    },
+    {
+      "id": "T3A-001",
+      "path": "docs/experiments/T3A-001-v0.1.1-FROZEN.md",
+      "sha256": "a4f6481736687598297e1c430effa5057ab524c9d9fce889a144706c9881b5d3",
+      "bytes": 68211
+    }
+  ],
+  "review_report": {
+    "path": "reports/reviews/NEXT23-FCR-001-FINAL-REVIEW-AND-FREEZE.md",
+    "sha256": "7b2e826bcc52f453741f1782e25b7c65edff82f8e3353d3a5e200337bc7ec0fa"
+  },
+  "historic_drafts": [
+    {
+      "id": "LLA-001",
+      "path": "docs/history/LLA-001-v0.1.0-DRAFT.md",
+      "sha256": "f468ba8959d9a25510be662e3b03ce998099647ceafa541c5b16d58cc7cfd8fa"
+    },
+    {
+      "id": "CORE-001",
+      "path": "docs/history/CORE-001-v0.1.0-DRAFT.md",
+      "sha256": "d754929de7bac3d004e9b92e110c8cc76a406aa8477cedad25edcbd3d45750da"
+    },
+    {
+      "id": "T3A-001",
+      "path": "docs/history/T3A-001-v0.1.0-DRAFT.md",
+      "sha256": "94742cf85e4a19b8a04c3c54028caf9f02e4469e7138ca94d53ae1eab8458e11"
+    }
+  ]
+}
